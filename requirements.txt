@@ -1,0 +1,5 @@
+Flask
+selenium
+undetected-chromedriver
+uuid
+gunicorn
