@@ -95,6 +95,7 @@ def getCode():
 
 @app.route('/signup',methods=['GET'])
 def signup():
+    print("start")
     try:
         driver1= init_driver()
         email_data=getEmail()
